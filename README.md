@@ -3,7 +3,7 @@ I haven't tested this, I just made an untested copy of the work script and remov
 ## Quick Start
 
 ```
-/usr/java/java/bin/java  -Dusername=me '-Dpassword=secret' -jar jmx_programmatic.jar
+/usr/java/java/bin/java  -Dusername=me '-Dpassword=secret' -jar jmx_programmatic.jar | tee /tmp/jmx.txt
 ```
 
 ### Old
