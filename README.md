@@ -2,6 +2,7 @@ Make sure you don't source-control anything company-secret.
 
 ### This is not my latest version. It's just a snapshot with trade secrets removed
 
+
 ## Quick Start
 
 ```
@@ -13,3 +14,7 @@ Make sure you don't source-control anything company-secret.
 java -cp jmx_programmatic.git.jar PrintMBeans
 ```
 
+### See also
+
+* jmx-groovy.git (this version has trade secrets)
+* jmx_programmatic_java.git (this version has trade secrets)
