@@ -18,3 +18,4 @@ java -cp jmx_programmatic.git.jar PrintMBeans
 
 * jmx-groovy.git (this version has trade secrets)
 * jmx_programmatic_java.git (this version has trade secrets)
+** This one uses jshell so is better 
