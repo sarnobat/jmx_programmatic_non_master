@@ -18,7 +18,7 @@ public class PrintMBean {
 	public static void main(String[] args) {
 
 		// inputs
-		String serviceURL = System.getProperty("url", "service:jmx:rmi:///jndi/rmi://myserver:8999/jmxrmi");
+		String serviceURL = System.getProperty("url", "service:jmx:rmi:///jndi/rmi://localhost:8999/jmxrmi");
 		String objectNameStr = System.getProperty("object", "MyObject");
 
 		HashMap<String, String[]> environment = new HashMap<String, String[]>();
