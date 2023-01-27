@@ -1,7 +1,7 @@
 Make sure you don't source-control anything company-secret.
 
 ### This is not my latest version. It's just a snapshot with trade secrets removed
-
+The master is found in an identically named repo in my organization.
 
 ## Quick Start
 
